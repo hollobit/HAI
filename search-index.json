@@ -83,6 +83,14 @@
       "chapter": null
     },
     {
+      "url": "open-source/",
+      "title": "🌍 오픈소스 / Open-Weight AI 동향",
+      "snippet": "2024-2026 시장 추이 · 미·중 지배력 · closed vs open 성능 격차 · 독자 FM 개발 · 라이센스 taxonomy",
+      "type": "page",
+      "korea": false,
+      "chapter": null
+    },
+    {
       "url": "ai-stack/",
       "title": "🔌 AI 유틸리티 스택 (6 레이어)",
       "snippet": "전력망 → GPU/TPU → 클라우드 → LLM → 토큰경제 → 지능형경제 + 한국 점수",
