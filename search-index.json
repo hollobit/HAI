@@ -75,6 +75,14 @@
       "chapter": null
     },
     {
+      "url": "actionplan/",
+      "title": "🇰🇷 AI 행동계획 갭 분석",
+      "snippet": "99 과제 · 326 권고 · 12 전략영역 × HAI 20+ 지표 커버리지 매트릭스 + 양방향 갭 리스트",
+      "type": "page",
+      "korea": true,
+      "chapter": null
+    },
+    {
       "url": "ai-stack/",
       "title": "🔌 AI 유틸리티 스택 (6 레이어)",
       "snippet": "전력망 → GPU/TPU → 클라우드 → LLM → 토큰경제 → 지능형경제 + 한국 점수",
@@ -166,6 +174,14 @@
       "url": "glossary/",
       "title": "📖 용어 사전",
       "snippet": "FLOPs · MMLU · GPU · Token · Transformer 등 22 AI 용어 한국어 정의",
+      "type": "page",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "pricing/",
+      "title": "💰 토큰 가격 카탈로그 — 50+ frontier 모델",
+      "snippet": "OpenAI · Anthropic · Google · 한국 (Naver/LG/Upstage/Kakao) · 중국 open-weight (DeepSeek/Qwen/Kimi/GLM/Doubao/ERNIE) frontier 모델 가격 표 + 필터 + 정렬 + URL 직링크",
       "type": "page",
       "korea": false,
       "chapter": null
@@ -7156,6 +7172,22 @@
     },
     {
       "url": "ai-stack/#token-economy",
+      "title": "💰 GPT-5.1 (OpenAI)",
+      "snippet": "입력 $1.25/M · 출력 $10.00/M · 출시 2026-01-28",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 o4-mini (OpenAI)",
+      "snippet": "입력 $1.10/M · 출력 $4.40/M · 출시 2026-03-04",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
       "title": "💰 Claude 1 (Anthropic)",
       "snippet": "입력 $11.02/M · 출력 $32.68/M · 출시 2023-03-14",
       "type": "model",
@@ -7244,6 +7276,22 @@
     },
     {
       "url": "ai-stack/#token-economy",
+      "title": "💰 Claude Sonnet 4.6 (Anthropic)",
+      "snippet": "입력 $3.00/M · 출력 $15.00/M · 출시 2026-01-15",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 Claude Haiku 5 (Anthropic)",
+      "snippet": "입력 $0.80/M · 출력 $4.00/M · 출시 2026-02-12",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
       "title": "💰 Gemini 1.0 Pro (Google)",
       "snippet": "입력 $0.50/M · 출력 $1.50/M · 출시 2023-12-13",
       "type": "model",
@@ -7292,6 +7340,22 @@
     },
     {
       "url": "ai-stack/#token-economy",
+      "title": "💰 Gemini 3 Pro (Google)",
+      "snippet": "입력 $2.50/M · 출력 $15.00/M · 출시 2026-01-22",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 Gemini 3 Flash (Google)",
+      "snippet": "입력 $0.30/M · 출력 $2.50/M · 출시 2026-02-18",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
       "title": "💰 Llama 3.1 405B (Together) (Open-Source)",
       "snippet": "입력 $5.00/M · 출력 $5.00/M · 출시 2024-07-23",
       "type": "model",
@@ -7332,6 +7396,78 @@
     },
     {
       "url": "ai-stack/#token-economy",
+      "title": "💰 DeepSeek-V3.1 (DeepSeek API) (Open-Source)",
+      "snippet": "입력 $0.27/M · 출력 $1.10/M · 출시 2026-02-05",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 DeepSeek-R2 (DeepSeek API) (Open-Source)",
+      "snippet": "입력 $0.55/M · 출력 $2.19/M · 출시 2026-03-12",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 Llama 4.5 Behemoth (Together) (Open-Source)",
+      "snippet": "입력 $8.00/M · 출력 $8.00/M · 출시 2026-03-25",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 Qwen 3 Max (DashScope) (Open-Source)",
+      "snippet": "입력 $2.40/M · 출력 $9.60/M · 출시 2026-01-30",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 Qwen 3 72B (Together) (Open-Source)",
+      "snippet": "입력 $0.60/M · 출력 $0.60/M · 출시 2026-02-08",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 Kimi K2 (Moonshot) (Open-Source)",
+      "snippet": "입력 $0.30/M · 출력 $1.20/M · 출시 2026-02-14",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 GLM-5 (BigModel) (Open-Source)",
+      "snippet": "입력 $0.50/M · 출력 $2.00/M · 출시 2026-01-25",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 Doubao 1.5 Pro (Volcano) (Open-Source)",
+      "snippet": "입력 $0.45/M · 출력 $1.40/M · 출시 2026-02-22",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 ERNIE 5.0 (Baidu) (Open-Source)",
+      "snippet": "입력 $0.55/M · 출력 $1.65/M · 출시 2026-03-08",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
       "title": "💰 Mistral Large (Mistral)",
       "snippet": "입력 $8.00/M · 출력 $24.00/M · 출시 2024-02-26",
       "type": "model",
@@ -7350,6 +7486,86 @@
       "url": "ai-stack/#token-economy",
       "title": "💰 Codestral (Mistral)",
       "snippet": "입력 $1.00/M · 출력 $3.00/M · 출시 2024-05-29",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 Mistral Large 3 (Mistral)",
+      "snippet": "입력 $2.00/M · 출력 $6.00/M · 출시 2026-02-19",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 HyperCLOVA X (Naver) (Korea)",
+      "snippet": "입력 $5.00/M · 출력 $15.00/M · 출시 2024-04-15",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 HyperCLOVA X SEED (Korea)",
+      "snippet": "입력 $0.45/M · 출력 $1.20/M · 출시 2025-04-25",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 Solar Pro 2 (Upstage) (Korea)",
+      "snippet": "입력 $0.60/M · 출력 $1.80/M · 출시 2025-07-10",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 EXAONE 3.5 32B (LG) (Korea)",
+      "snippet": "입력 $0.30/M · 출력 $1.00/M · 출시 2024-12-09",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 EXAONE Deep 32B (LG) (Korea)",
+      "snippet": "입력 $0.55/M · 출력 $2.20/M · 출시 2025-03-18",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 Kanana 1.5 (Kakao) (Korea)",
+      "snippet": "입력 $0.50/M · 출력 $1.50/M · 출시 2025-05-28",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 HyperCLOVA X 2 (Naver) (Korea)",
+      "snippet": "입력 $2.50/M · 출력 $10.00/M · 출시 2026-02-26",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 Solar Pro 3 (Upstage) (Korea)",
+      "snippet": "입력 $0.80/M · 출력 $2.40/M · 출시 2026-03-12",
+      "type": "model",
+      "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "ai-stack/#token-economy",
+      "title": "💰 EXAONE 4 (LG) (Korea)",
+      "snippet": "입력 $1.20/M · 출력 $4.80/M · 출시 2026-01-22",
       "type": "model",
       "korea": false,
       "chapter": null
@@ -7576,6 +7792,798 @@
       "snippet": "50국 · quarterly · pillars: Research publications, Patents, Companies (by subfield)",
       "type": "alt-index",
       "korea": false,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/1/",
+      "title": "[1] GPU, NPU 등 핵심 AI 컴퓨팅 인프라 확충",
+      "snippet": "AI 고속도로 구축 · 3건 권고 · GPU와 NPU는 국가 AI 컴퓨팅 인프라 경쟁력의 근간이다. 정부는 2030년까지 최소 5만 장 이상의 GPU를 단계적으로 확보할 계획이나, ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/2/",
+      "title": "[2] 지속가능한 AI 데이터센터 생태계 구축",
+      "snippet": "AI 고속도로 구축 · 3건 권고 · 데이터센터는 신규 전력과 부지 확보의 불확실성, 긴 공사 기간, 인허가, 주민 수용성 등 이슈를 해결해야 한다. 전력 수요가 커서 다량의 전력 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/3/",
+      "title": "[3] AI 서비스 기반 고도화를 통한 접근성 제고",
+      "snippet": "AI 고속도로 구축 · 2건 권고 · AI시대에는 단말과 기지국, 엣지·백본망, 데이터센터 간에 발생하는 대용량 상·하향 트래픽과 초실감 서비스 요구 등을 동시에 처리해야 한다. 또",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/4/",
+      "title": "[4] 국가데이터 통합플랫폼 기반 민간·공공 데이터 소재 연계 및 품질 고도화",
+      "snippet": "AI 고속도로 구축 · 3건 권고 · AX의 핵심 요소인 데이터를 국가 자산으로 인식하고 효과적으로 활용하기 위해서 민간･공공을 아우르는 최상위 플랫폼이 필요하다. 현재 200개 내",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/5/",
+      "title": "[5] AI 데이터 공유 생태계 활성화",
+      "snippet": "AI 고속도로 구축 · 3건 권고 · AI 학습 및 평가용 데이터(이하 AI 데이터)는 AI 기술의 핵심 요소로서 어떤 데이터를 어떤 규모로 확보하냐에 따라 AI 성능이 좌지우지된다",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/6/",
+      "title": "[6] 보건의료 AI 고도화와 AX 전환에 필요한 학습데이터 확충",
+      "snippet": "AI 고속도로 구축 · 4건 권고 · 보건의료 데이터는 그 민감성과 다양성 그리고 소유 및 권리관계의 복잡성으로 인하여 그간 국가와 민간에서 많은 노력을 기울여 왔음에도 그 데이터의",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/7/",
+      "title": "[7] 국가 과학 AI 통합 인프라 및 연구개발 혁신 생태계 구축",
+      "snippet": "AI 고속도로 구축 · 5건 권고 · 미국은 2025년 11월 발표한 ‘제네시스 미션’을 통해 연방정부가 축적해 온 방대한 과학, 슈퍼컴퓨팅 자원, 연구인프라와 실험 설비를 통합플랫",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/8/",
+      "title": "[8] 국가 AI·데이터 거버넌스 정립",
+      "snippet": "AI 고속도로 구축 · 3건 권고 · 현재 AI 기본법6)에 따라 국가CAIO(Chief AI Officer) 제도가 운영되는 등 기본적인 AI 거버넌스 체계는 일부 형성되어 있다.",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/9/",
+      "title": "[9] 민간·공공 AI 보안 생태계 활성화 및 정보보호산업 자생력 확보",
+      "snippet": "AI 고속도로 구축 · 10건 권고 · 최근 국내 해킹 사고는 국가 배후 해킹그룹 등 체계적 공격에 의해 발생하고 있으며, 특히 보안인증을 획득한 기업조차도 해킹되고 있고 행정망까지 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/10/",
+      "title": "[10] AI 기반의 사이버 보안 체계 구축, AI 보안 기술 경쟁력 강화 및 보안 전문 인재 양성",
+      "snippet": "AI 고속도로 구축 · 7건 권고 · AI가 열어갈 미래 시대의 정보 보호 주권과 신뢰 사회를 실현하기 위해 AI, 양자 등 차세대 보안 기술의 주도권을 확보하고 관련 산업 경쟁력을",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/11/",
+      "title": "[11] AI 시대, 넥스트 AI 안보 위협 대응 및 협력 강화",
+      "snippet": "AI 고속도로 구축 · 6건 권고 · AI 기술의 비약적 발전으로 AI를 활용한 악성코드 자동 생성, 시스템 취약점 공략, 생성형 AI를 이용한 딥페이크와 인간공학적 공격 등이 급증",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/12/",
+      "title": "[12] 피지컬AI, 휴머노이드, AI 반도체 분야 차세대 기술 확보·적용",
+      "snippet": "차세대 AI기술 선점 · 2건 권고 · 세계는 생성형 AI를 넘어, 로봇, 무인이동체 등이 물리 환경에서 스스로 인지·추론·행동하는 피지컬 AI시대로 빠르게 이동하고 있다. 글로벌 기",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/13/",
+      "title": "[13] (가칭)국가 초지능 연구소 설립",
+      "snippet": "차세대 AI기술 선점 · 1건 권고 · AI 모델 경쟁은 초거대 AI모델 고도화를 넘어, 스스로 학습하고 추론하며 인간 수준의 일반지능에 근접하려는 범용지능(AGI) 경쟁으로 심화되고",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/14/",
+      "title": "[14] 기초과학 및 전략 과학기술 분야 AI 혁신, AI 연구동료 개발",
+      "snippet": "차세대 AI기술 선점 · 8건 권고 · 수학·물리학·천문·우주과학·화학·생명과학·지구과학 등 모든 기초과학 분야에서 AI와의 융합을 통해 새로운 혁신의 길이 열리고 있다. AI는 연구",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/15/",
+      "title": "[15] AI시대 국가교육 체계 혁신을 위한 실행계획 수립",
+      "snippet": "AI 핵심인재 확보 · 1건 권고 · AI는 과거 산업화 시대의 표준화된 지식 전달 방식으로는 더 이상 경쟁력을 확보할 수 없는 새로운 환경을 만들고 있다. AI는 기존 산업을 혁신",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/16/",
+      "title": "[16] 초중등 국가 교육과정 및 교과서 체제 재구조화",
+      "snippet": "AI 핵심인재 확보 · 5건 권고 · AI 기술 발전과 사회 변화의 속도는 기존 교육체계가 따라가기 어려운 수준으로 빠르게 가속화되고 있다. 특히 인공지능 기술의 진보, 다양한 산업",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/17/",
+      "title": "[17] 초중고 전학년에서 연속적인 디지털·AI 교육 필수 이수",
+      "snippet": "AI 핵심인재 확보 · 5건 권고 · AI가 사회 전반의 기본 역량으로 자리 잡고 있음에도, 현재 초·중·고의 AI 및 디지털 교육은 간헐적·단절적 형태로 운영되고 있다. 초등학교의",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/18/",
+      "title": "[18] 초중등 AI 실습 교육 플랫폼 구축",
+      "snippet": "AI 핵심인재 확보 · 3건 권고 · AI와 데이터 교육은 이론 학습만으로는 한계가 있으며, 실제 데이터를 다루고 모델을 실습하는 학습 환경이 필수적이다. 그러나 현재 초·중·고등학",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/19/",
+      "title": "[19] 평가 제도 및 입시 제도 혁신",
+      "snippet": "AI 핵심인재 확보 · 2건 권고 · AI 시대에는 단순한 정답 암기나 서열 중심의 평가로는 학습자의 창의력, 문제해결력, 협업 능력, AI 활용 역량을 제대로 평가하기 어렵다. 현",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/20/",
+      "title": "[20] AI시대 교사 양성 및 연수체계 혁신",
+      "snippet": "AI 핵심인재 확보 · 4건 권고 · AI 시대의 교육혁신은 교사의 역량에 달려있다. AI를 이해하고 활용하며, 다양한 교과와 융합해 교육하고, 학습과 진로를 연계하여 학생의 진로지",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/21/",
+      "title": "[21] 정보 교사 임용 확대 및 교원 전문성 강화",
+      "snippet": "AI 핵심인재 확보 · 4건 권고 · AI 교육의 확산은 결국 전문 교원의 확보에 달려 있다. 현재 중등 정보 교사 인력은 수요에 비해 턱없이 부족하며, 농산어촌과 중소도시 학교는 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/22/",
+      "title": "[22] AI영재교육 체계 재설계",
+      "snippet": "AI 핵심인재 확보 · 3건 권고 · 현재 영재학교와 과학고등학교는 수학·과학 중심의 심화 교육에 초점을 맞추고 있으며, AI 분야 특화 과정은 상대적으로 적은 수준으로 운영되고 있",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/23/",
+      "title": "[23] 대학 및 대학원 AI 인재 양성",
+      "snippet": "AI 핵심인재 확보 · 5건 권고 · 현재 정부의 AI분야 고등교육 인재 양성 사업은 과기정통부, 교육부, 산업부 등 거의 전 부처에 걸쳐 제각각 추진되고 있다. 이는 부처별 칸막이",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/24/",
+      "title": "[24] 산업 AX 역량 제고를 위한 인재 양성",
+      "snippet": "AI 핵심인재 확보 · 3건 권고 · 대한민국의 산업과 사회는 AI 도입의 ‘양극화’라는 심각한 도전에 직면해 있다. AI 기술을 적극적으로 활용하는 기업과 그렇지 못한 기업 간의 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/25/",
+      "title": "[25] 최고 수준 AI 전문가 유지 및 유치",
+      "snippet": "AI 핵심인재 확보 · 2건 권고 · 대한민국은 AI 인재의 ‘순유출’이 지속되는 어려움에 직면해 있다. OECD 통계를 기준으로 할 때 AI 인재 유입률은 최하위권 수준이며, 이러",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/26/",
+      "title": "[26] AI 인재 경력 단절 해소",
+      "snippet": "AI 핵심인재 확보 · 2건 권고 · AI기술 경쟁은 곧 ‘인재 전쟁’이다. 소수의 핵심 연구자가 국가의 기술 수준을 몇 단계나 끌어올릴 수도 있는 분야가 바로 AI분야이며,사회적 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/27/",
+      "title": "[27] 범용 AI 파운데이션 모델 확보",
+      "snippet": "AI 모델 확보 · 1건 권고 · 글로벌 AI 경쟁이 초거대 모델 활용으로 빠르게 확산되는 상황에서, 특정 국가나 기업의 모델에 대한 의존이 심화될수록 공공서비스, 국가적 AX ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/28/",
+      "title": "[28] 산업별 수요 기반 AI 파운데이션 모델 확보 및 실증 확산",
+      "snippet": "AI 모델 확보 · 4건 권고 · 산업 전반에서 디지털 전환이 고도화되면서, 일반 목적형 AI 모델만으로는 각 산업의 복잡한 업무 요구를 충족하기 어려워지고 있다. 제조·의료·바",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/29/",
+      "title": "[29] 핵심 과학 분야 AI 기반 모델 확보 및 공공·산업 확산",
+      "snippet": "AI 모델 확보 · 11건 권고 · ’16년 알파고와 ’20년 알파폴드2의 등장은 인공지능이 과학 분야에 몰고 올 거대한 패러다임 전환을 예고했으며 ’24년 노벨 물리학상과 화학상",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/30/",
+      "title": "[30] 보건의료 특화 AI 파운데이션 모델 확보",
+      "snippet": "AI 모델 확보 · 1건 권고 · 보건의료 분야는 단순한 질병의 진단, 치료만이 아니라 건강관리, 질병 예방에서 사후 관리까지를 포함하는 광범위한 분야이며 이는 국가마다 그 의료",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/31/",
+      "title": "[31] 개인정보·미개방 산업 데이터 활용 규제 과감한 정비",
+      "snippet": "AI 규제혁신 · 4건 권고 · 성공적인 소버린 AI 모델 개발과 AX를 달성하기 위해서 미개방 산업 데이터와 개인정보 활용의 중요성이 갈수록 커지고 있다. 개인정보의 경우 개",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/32/",
+      "title": "[32] AI 학습·평가 목적의 저작물 활용 및 유통 생태계 활성화",
+      "snippet": "AI 규제혁신 · 6건 권고 · AI 기술의 확산으로 공개 정보의 대규모 학습이 중요해지면서, 다양한 저작물을 합법적이고 예측가능한 방식으로 활용할 수 있는 기반이 필요하다. ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/33/",
+      "title": "[33] 규제 합리화를 통해 혁신을 촉진하는 AI 산업생태계 조성",
+      "snippet": "AI 규제혁신 · 2건 권고 · 글로벌 AI 기술 확보의 글로벌 경쟁에서 뒤처지지 않기 위해 규제 패러다임을 ‘사전 통제’에서 ‘자율과 책임 기반의 사후 지원’으로 전면 전환해",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/34/",
+      "title": "[34] 국가 AI 대전환을 뒷받침하는 AI 법제 환경 조성",
+      "snippet": "AI 규제혁신 · 3건 권고 · ’26년 1월 시행된 AI기본법은 공백 상태였던 법·제도적 기반을 오랜 준비기간을 거쳐 마련했다는 점에서 의미가 있다. 특히 추진체계와 진흥 조",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/35/",
+      "title": "[35] AI 스타트업·중소기업 공정 성장·경쟁 생태계 조성",
+      "snippet": "AI 규제혁신 · 3건 권고 · AI 산업구조가 대규모 플랫폼 기업 중심으로 재편되면서, 데이터·알고리즘·API 접근성의 편차가 스타트업·중소기업의 성장 한계를 구조적으로 고착",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/36/",
+      "title": "[36] 산업별 AI 에이전트 개발 및 기업 수요 발굴",
+      "snippet": "산업 AX · 4건 권고 · 산업 현장에서는 단순 자동화를 넘어, 복잡한 업무 판단과 실시간 의사결정을 지원할 수 있는 차세대 AI 활용 방식에 대한 수요가 빠르게 높아지고",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/37/",
+      "title": "[37] '30년 K-제조업 글로벌 1위 달성을 위한 「제조 AI 2030(가칭)」 전략 수립",
+      "snippet": "산업 AX · 5건 권고 · 제조업은 우리 경제의 핵심 성장동력으로, 고도화된 AI 기술을 생산 현장 전반에 적용하는 것은 향후 제조 경쟁력을 결정짓는 필수 조건으로 부상하",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/38/",
+      "title": "[38] 자율주행 차량 중심 교통·물류 AI 대전환",
+      "snippet": "산업 AX · 5건 권고 · 자율주행과 AI 기술의 확산으로 교통·물류 체계를 전면적으로 재구성해야 할 필요성이 커지고 있으며, 차량·도로·물류 시스템에서 생성되는 데이터를",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/39/",
+      "title": "[39] '30년 AI 기반 글로벌 바이오·헬스 5대 강국 도약",
+      "snippet": "산업 AX · 3건 권고 · 바이오·헬스 분야는 데이터 규모의 급증, 정밀 의료 확대, 신약 개발 복잡성 증가 등으로 AI 기반 혁신 수요가 빠르게 확대되고 있다. 임상·유",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/40/",
+      "title": "[40] AI 기반 금융산업 혁신성장과 금융산업 AI 대전환",
+      "snippet": "산업 AX · 3건 권고 · 금융산업은 데이터 기반 의사결정 비중이 높아지면서 AI의 활용 범위가 단순 자동화를 넘어 리스크 관리, 자산 배분, 고객 경험 개선 등 핵심 기",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/41/",
+      "title": "[41] 자율운항 선박 개발과 AI를 활용한 수산업·해운업의 혁신성장",
+      "snippet": "산업 AX · 4건 권고 · 해양·수산 분야는 기후 변화, 해양 위험 증가, 글로벌 물류 경쟁 심화로 인해 운영 효율과 안전성의 새로운 기준을 요구받고 있다. 선박 운항·항",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/42/",
+      "title": "[42] AI시대 기후 위기 대응과 지속가능한 에너지로의 전환",
+      "snippet": "산업 AX · 3건 권고 · 기후 변화가 예상보다 빠르게 진행되면서 기존 대응 방식만으로는 국가 차원의 기후 리스크를 통제하기가 갈수록 어려워지고 있다. 탄소 배출 관리·전",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/43/",
+      "title": "[43] 농산업의 AI 대전환",
+      "snippet": "산업 AX · 1건 권고 · 농촌은 인력 감소와 고령화, 기후변화 적응의 어려움, 낮은 자동화 수준 등으로 생산 기반이 점차 약화되면서 성장 정체가 장기화되고 있다. 이러한",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/44/",
+      "title": "[44] AI 가치평가 체계 확립 및 글로벌 경쟁력 강화",
+      "snippet": "산업 AX · 2건 권고 · AI 기술이 산업 전반의 구조혁신을 가속화하는 현 단계에서는 기술개발 못지않게 AI가 창출하는 가치를 어떻게 평가·보상하느냐가 생태계의 성패를 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/45/",
+      "title": "[45] AI 빅테크 기업 육성을 위한 150조원+α 국민 성장 펀드 조성",
+      "snippet": "산업 AX · 2건 권고 · AI 산업은 대규모 자본 투입 없이는 글로벌 경쟁에서 단 한 걸음도 앞서기 어려운 구조로 이동하고 있으며, 특히 데이터센터 구축, 국산 AI 반",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/46/",
+      "title": "[46] AI 융합 분야 대표 프로젝트 발굴을 위한 AX 스프린트",
+      "snippet": "산업 AX · 3건 권고 · AI를 제품에 융합하는 AX 스프린트 프로젝트는 개별 기술개발을 넘어 산업구조 전체를 재편하는 성격을 지니기 때문에 단일 부처나 개별 사업 단위",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/47/",
+      "title": "[47] AI 바우처를 통한 LLM과 에이전트 수요 및 초기 시장 창출",
+      "snippet": "산업 AX · 1건 권고 · 국내 AI 생태계가 본격적으로 성장하기 위해서는 공급 측의 기술 경쟁력만으로는 한계가 있으며, 신생 AI 기업이 안정적으로 성장할 수 있는 초기",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/48/",
+      "title": "[48] 한국형 AI 풀스택 수출 전략 마련 및 글로벌 확산 추진",
+      "snippet": "산업 AX · 2건 권고 · 한국 AI 산업이 글로벌 시장에서 지속 가능한 성장 궤도에 오르기 위해서는 개별 기술이 아닌 전력·냉각·네트워크·클라우드 인프라부터 AI 모델,",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/49/",
+      "title": "[49] 질적 성장 중심의 AI 데카콘 기업 육성",
+      "snippet": "산업 AX · 1건 권고 · AI 산업은 기술력과 시장성을 확보한 기업이 빠르게 글로벌 시장을 선점하는 구조로 재편되고 있으며, 데카콘급 기업의 등장은 국가 산업 경쟁력을 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/50/",
+      "title": "[50] AI-Native한 공무원 협업체계 구축",
+      "snippet": "공공 AX · 2건 권고 · 각 부처가 개별적으로 AI 기반 시스템을 도입할 경우, 기술표준과 데이터 구조가 달라져 행정 전반의 연계성이 저하될 위험이 있다. 부처마다 상이",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/51/",
+      "title": "[51] 칸막이를 넘어 데이터와 맥락을 연결하는 AI 업무관리 플랫폼 구축",
+      "snippet": "공공 AX · 4건 권고 · 정부 행정은 부처별로 제도·업무·데이터가 분절된 구조여서 동일한 사안을 놓고도 정보 접근성, 해석, 정책 판단이 서로 다르게 이루어지는 문제가 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/52/",
+      "title": "[52] 공공 정보화 사업, 민간 클라우드로 전환",
+      "snippet": "공공 AX · 2건 권고 · 정부의 디지털 전환이 가속화되면서 방대한 행정 데이터, 신속한 정책 집행, 안정적 서비스 제공을 위한 인프라 요구가 급격히 증가하고 있다. 기존",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/53/",
+      "title": "[53] 세계 1위 AI정부 도약 견인, 공공분야 AI챔피언 양성",
+      "snippet": "공공 AX · 2건 권고 · [참고9]  전 세계적으로 정부 운영의 경쟁력이 AI 역량에 의해 좌우되는 시대가 도래하면서, 공공부문이 기술 변화를 선도하지 못할 경우 행정 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/54/",
+      "title": "[54] 공공부문 AI 도입에 대한 국민 기본권 보장, 공공 AI 영향평가",
+      "snippet": "공공 AX · 1건 권고 · 정부가 행정 전 과정을 디지털화하고 AI 활용을 확대함에 따라, 행정 결정이 국민의 권리·의무에 미치는 영향도 커지고 있다. 특히 민원 처리, ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/55/",
+      "title": "[55] 안전한 AI이용 보장, 공공부문 AI 윤리기준 마련",
+      "snippet": "공공 AX · 1건 권고 · AI 기술이 행정 전반으로 확산되면서 공공부문의 의사결정 과정에 AI가 직접·간접적으로 영향을 미치는 사례가 증가하고 있다. 이에 따라 알고리즘",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/56/",
+      "title": "[56] 공공 AI 大전환 가속화, 적극행정 인센티브와 감사 면책 마련",
+      "snippet": "공공 AX · 1건 권고 · 공공부문에서 AI를 도입할 때 고려해야 할 것은 규제·보안·데이터 문제로 인해 공무원 개인이 새로운 시도를 주저하는 ‘위험 회피 문화’다. 현재",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/57/",
+      "title": "[57] 공공AX 정책의 성공적인 실행을 위한 성과 평가 시행",
+      "snippet": "공공 AX · 3건 권고 · AI 정책은 범부처 연계성과 기술 변화 속도가 매우 높아 실효성 있는 평가가 필수적이다. 예산 편성은 성과 근거가 명확할수록 부처 간 우선순위 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/58/",
+      "title": "[58] AI를 활용한 최고의 대국민 서비스 제공",
+      "snippet": "공공 AX · 3건 권고 · 대한민국 국민은 정부로부터 최고의 서비스를 제공받아야 한다. 공공서비스가 민간 서비스보다 불편해야 할 어떤 이유도 없다. AI를 활용하면 많은 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/59/",
+      "title": "[59] 행정/사법 투명성 증대를 위한 공공데이터 공개",
+      "snippet": "공공 AX · 3건 권고 · 미국·영국 등 주요국은 판결문·등기 정보를 기계판독형으로 광범위하게 개방해 사법·부동산 투명성 강화와 데이터 기반 신산업 육성을 동시에 추진하고",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/60/",
+      "title": "[60] 교사 지원형 AI 보조교사 도입 및 AI 기반의 교육행정 혁신",
+      "snippet": "공공 AX · 4건 권고 · 학교 현장의 교사는 수업 설계, 학습자료 준비, 학생 관리, 행정 문서 처리 등 과도한 업무를 수행하고 있어, 수업 연구와 학생 개별지도의 시간",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/61/",
+      "title": "[61] 국내 AI실증·고도화의 마중물, 공공시장의 AI 테스트베드화",
+      "snippet": "공공 AX · 2건 권고 · 글로벌 AI 산업은 빠르게 성장하며 국가 경쟁력의 핵심요소로 부상하고 있다. 정부는 국내 AI 산업의 활성화를 위해 선도적 역할을 담당하는 최초",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/62/",
+      "title": "[62] K-Gov AX 모델의 글로벌 확산, K-AI 얼라이언스 구성",
+      "snippet": "공공 AX · 1건 권고 · AI가 국가 경쟁력의 핵심 인프라로 자리 잡으면서, 정부 운영·산업 생태계·사회 서비스 전반을 AI 중심으로 재편하려는 국제 경쟁이 심화되고 있",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/63/",
+      "title": "[63] 공공AX 거버넌스 및 실행체계 구축",
+      "snippet": "공공 AX · 2건 권고 · AI-Native 정부의 구현을 위해서는 AI에 적합한 거버넌스를 갖추어야 한다. 현재 3백억 이상의 과제는 ISP와 예비타당성 검토 등을 거치",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/64/",
+      "title": "[64] 공공부문에서의 AI·디지털 포용성 확대",
+      "snippet": "공공 AX · 3건 권고 · AI 시대의 빠른 기술 발전 속에서 소외되기 쉬운 장애인과 고령자 등 디지털 취약계층을 보호하기 위해서는, 공공부문에서부터 이들을 중요한 정책 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/65/",
+      "title": "[65] 5극 3특 K-AI 특화 시범도시를 조성하여 대표 AI 융합 도시로 육성",
+      "snippet": "지역 AX · 2건 권고 · 대한민국의 도시 구조는 수도권 중심 성장 패턴이 고착되어 있으며 산업·행정·복지 등 일상적 AI 활용 인프라 역시 서울·경기에 집중돼 비수도권은",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/66/",
+      "title": "[66] 5극 3특 권역별 성장엔진에 기반한 AX 혁신 벨트 조성",
+      "snippet": "지역 AX · 3건 권고 · 정부는 “수도권 일극 체제”를 벗어나기 위해 5극 3특 국가 균형성장 전략을 제시하고, 이에 따라 권역별 성장엔진과 지역 특화산업을 육성하겠다는",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/67/",
+      "title": "[67] 지역 산단을 지역 AX 활성화를 위한 산업 인프라 거점으로 탈바꿈",
+      "snippet": "지역 AX · 2건 권고 · AI·디지털 전환이 제조·물류·에너지·환경 전반의 혁신을 가속화함에 따라 기존 생산 거점을 AI·데이터·로봇·스마트에너지 기반의 지능형 산업 인",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/68/",
+      "title": "[68] 지역 인재를 활용한 지역 AX 기업 육성 및 지역 창업 역량 강화",
+      "snippet": "지역 AX · 3건 권고 · 우리나라의 산업·인구·인프라는 수도권에 과도하게 집중되어 있어 지역 기업의 성장 생태계가 상대적으로 협소하며, AI·데이터 기반 신산업 기회 역",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/69/",
+      "title": "[69] 수요 맞춤형 지역 AX 인재 양성 및 정주형 인재 순환 생태계 조성",
+      "snippet": "지역 AX · 2건 권고 · AI와 디지털 전환이 산업 전반의 경쟁력을 좌우하는 핵심 요인으로 부상함에 따라, 지역 기업의 AI 활용·적용 역량과 실무형 인재 확보 능력은 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/70/",
+      "title": "[70] AI 기반 콘텐츠 창작 지원체계 구축 및 창작자 생태계 활성화",
+      "snippet": "AI기반 문화강국 · 1건 권고 · K-콘텐츠 시장이 빠르게 성장하는 가운데, AI 모델 개발자·서비스 제공자·창작자 등 다양한 이해관계자로 이루어진 생태계는 전례 없는 창작 환경",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/71/",
+      "title": "[71] K-컬처 산업의 AX 활성화 지원을 통한 콘텐츠 사업자 육성",
+      "snippet": "AI기반 문화강국 · 3건 권고 · AI는 글로벌 콘텐츠 산업의 제작·유통·소비 방식을 근본적으로 바꾸고 있으며, 팬 경험의 강화와 제작 효율성 제고가 곧 문화 경쟁력으로 직결되고",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/72/",
+      "title": "[72] AI 선도 적용으로 K-문화콘텐츠 산업의 지속적 성장 가능성 확보",
+      "snippet": "AI기반 문화강국 · 2건 권고 · 한국 문화콘텐츠 산업이 세계적 성공을 거둘 수 있었던 배경에는 창의성과 함께 새로운 기술을 빠르게 흡수해 온 산업적 역동성이 있었으며, AI 시",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/73/",
+      "title": "[73] K-콘텐츠와 K-AI의 동반 해외 진출을 통한 글로벌 시장 확대",
+      "snippet": "AI기반 문화강국 · 2건 권고 · 한국의 AI 기술은 K-컬쳐의 저력을 더욱 확장하는 매개가 될 수 있고, 동시에 K-컬쳐는 우리의 AI 기술력을 선보이는 효과적인 플랫폼으로 작",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/74/",
+      "title": "[74] 국방 AI 거버넌스 혁신으로 국방 AI 추진체계 재설계",
+      "snippet": "AI기반 국방강국 · 3건 권고 · [참고15]전장 환경의 복잡성 증가와 초지능·초연결 시대 도래에 따라 AI기반 의사결정 지원,지휘통제,무기체계 운용의 필요성이 확대되었으며,사업",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/75/",
+      "title": "[75] 국방 AI 기술 및 체계 획득 제도 개편",
+      "snippet": "AI기반 국방강국 · 3건 권고 · [참고16]전통적 무기체계 획득 절차(10~20년 단위)가 AI기술 발전 주기(6~12개월)와 맞지 않아 현재 추진 중인 대부분의 무기체계 사업",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/76/",
+      "title": "[76] 국방 데이터 및 클라우드 기반 민군 협력 촉진·활성화",
+      "snippet": "AI기반 국방강국 · 4건 권고 · [참고17]  국방 분야 AI 기술 적용의 기본은 다른 분야와 마찬가지로 연관 분야에서 생산되는 많은 양의 데이터를 시기적절하게 획득 및 활용하",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/77/",
+      "title": "[77] 군 간부의 AI 전문성 제고를 위한 AI 학위과정 확대",
+      "snippet": "AI기반 국방강국 · 1건 권고 · 미래 전장의 승패는 더 이상 병력의 수가 아닌, 데이터를 지배하고 AI를 활용하는 능력에 의해 좌우된다. 실제정찰 드론이 수집한 방대한 영상 데",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/78/",
+      "title": "[78] 민군 협력을 통한 국방 AI 보안 역량 강화",
+      "snippet": "AI기반 국방강국 · 2건 권고 · [참고18]  공급망 및 협력망의 연동은 사이버 공격 전선을 확장시켜, 기존의 단일(국방) 대응 체계로는 한계가 분명하다. 이에 따라, 지능화되",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/79/",
+      "title": "[79] 국방 AX 가속화를 통한 스마트 강군으로의 전환",
+      "snippet": "AI기반 국방강국 · 5건 권고 · [참고19]인구 절벽으로 올해 45만 명인 상비 병력은 ’40년 35만 명까지 하락하여 병력 절벽의 악순환으로 이어질 것으로 전망된다.우리 군이",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/80/",
+      "title": "[80] 방산 AI 육성을 통한 방산수출 4대 강국 진입",
+      "snippet": "AI기반 국방강국 · 3건 권고 · [참고20]  방산 시장의 경쟁력은 더 이상 무기체계 자체의 성능만으로 결정되지 않으며, AI 기술을 얼마나 효과적으로 융합하고 이를 통해 신속",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/81/",
+      "title": "[81] 「모두를 위한 AI 기본사회 추진계획」 수립",
+      "snippet": "AI기본사회 · 4건 권고 · AI 기본사회는 인공지능 기술의 발전으로 생기는 혜택을 모든 국민이 골고루 누리는 사회를 목표로 한다. 인류사에서 큰 기술 변화가 있을 때마다,",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/82/",
+      "title": "[82] AI 기본사회 추진 거버넌스 마련",
+      "snippet": "AI기본사회 · 2건 권고 · AI 기술의 사회적 파급력이 전방위적으로 확대됨에 따라, 공익 목적의 AI와 데이터 활용, 기술 기본권 보장, 사회 혁신 생태계를 지탱할 견고한",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/83/",
+      "title": "[83] 모두의 AI를 위한 AI 윤리 확산·고도화",
+      "snippet": "AI기본사회 · 4건 권고 · AI 기술이 일상과 산업 전반에 깊숙이 통합되면서 알고리즘의 책임성, 투명성, 공정성 등 사회적 신뢰를 확보하기 위한 윤리 체계의 고도화가 필수",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/84/",
+      "title": "[84] AI 공론장 설계 및 운영",
+      "snippet": "AI기본사회 · 3건 권고 · AI 기본사회는 헌법이 보장한 ‘인간으로서의 존엄과 가치’를 지키기 위해 AI를 활용해 사회의 포용성과 효율을 함께 높이는 것을 목표로 한다. ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/85/",
+      "title": "[85] AI를 활용한 사회문제 해결을 위해 '모두의 AI 실험실' 구축",
+      "snippet": "AI기본사회 · 3건 권고 · 한 사회의 경쟁력은 자본과 기술의 성과뿐 아니라, 다양한 주체가 경험을 축적하고 실험을 통해 배움을 공유하는 생태계가 얼마나 잘 작동하느냐에 달",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/86/",
+      "title": "[86] AI 기본사회 글로벌 얼라이언스 구성",
+      "snippet": "AI기본사회 · 2건 권고 · 누구나 AI의 혜택을 공유하고 위험을 함께 관리할 수 있는 ‘AI 기본사회’로의 전환은 정부의 단독 대응을 넘어 기업·시민사회뿐 아니라 국제사회",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/87/",
+      "title": "[87] AI 시대 생애 경제 통합 전략 마련",
+      "snippet": "AI기본사회 · 3건 권고 · AI 전환은 산업구조를 넘어 국민 개개인의 경제적 생애주기 전반을 재편하고 있다. 노동 기간은 짧아지고, 생애주기 적자는 커지며, 여성·시니어·",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/88/",
+      "title": "[88] AI 전환 대응 일자리 혁신 및 현장 역량 강화",
+      "snippet": "AI기본사회 · 6건 권고 · 산업 전반에 걸친 AI 도입 속도가 가속화되면서, 단순 대체를 넘어 직무의 재구성(Job Recomposition) 단계로 진입하고 있다. 데이",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/89/",
+      "title": "[89] AI 시대 복지·돌봄의 접근성 확대",
+      "snippet": "AI기본사회 · 5건 권고 · 한국은 초고령사회 진입과 함께 저출산·고령화·자살률 증가가 동시 심화되는 복합 인구 위기에 직면해 있다. 생산가능인구 감소와 고립층 확산, 정신",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/90/",
+      "title": "[90] AI 기본 의료의 구현",
+      "snippet": "AI기본사회 · 6건 권고 · 고령화 심화, 만성질환 증가, 지역 간 의료 인력 불균형 등으로 인해 한국 의료체계는 구조적 부담이 가중되고 있으며, 응급·감염병 대응에서도 신",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/91/",
+      "title": "[91] AI 범죄 근절 및 대응 역량 강화",
+      "snippet": "AI기본사회 · 6건 권고 · AI 확산은 산업의 혁신을 앞당겼지만 동시에 국가 신뢰와 사회 안전을 위협하는 새로운 전장을 만들고 있다. 딥페이크, 보이스피싱, 스푸핑(다른 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/92/",
+      "title": "[92] 국민 금융 안전 제고 및 AI 기반 포용적 금융안전망 구축",
+      "snippet": "AI기본사회 · 2건 권고 · 한국에서 AI 기반 보이스피싱·스미싱이 빠르게 고도화되며 금융 범죄 위협이 증가하고 있고, 이에 따라 기업과 정부의 정교한 탐지 시스템 수요도 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/93/",
+      "title": "[93] 전 국민 AI 역량 대전환 프로젝트",
+      "snippet": "AI기본사회 · 6건 권고 · 우리 사회가 AI 기반 사회·경제 체제(AI-driven economy)로 전환하기 위해서는 모든 국민이 AI의 원리를 이해하고 윤리적으로 올바",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/94/",
+      "title": "[94] 지역·계층 간 AI 교육격차 해소를 위한 지원체계 강화",
+      "snippet": "AI기본사회 · 8건 권고 · AI 교육은 국가적 핵심 정책임에도 불구하고 학교 유형·지역 규모·사회·경제적 여건에 따라 교육 인프라와 기회의 격차가 뚜렷하게 나타나고 있다.",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/95/",
+      "title": "[95] 민관 협력형 AI 교육정책 연구체계 구축",
+      "snippet": "AI기본사회 · 4건 권고 · AI 교육은 기술, 산업, 데이터, 교육 현장이 복합적으로 얽혀 있는 융합 영역으로, 정책의 기획부터 실행, 연구, 평가까지를 단일 부처나 기관",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/96/",
+      "title": "[96] 교육 AI서비스의 품질과 안전성을 위한 실증·평가·확산체계 구축",
+      "snippet": "AI기본사회 · 4건 권고 · AI 기술이 교육 분야에 빠르게 확산되고 있어, 학교 현장에 도입되는 교육AI 서비스의 안전성·윤리성·학습효과에 대한 공적 검증 체계가 필요한 ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/97/",
+      "title": "[97] 우리 AI로 글로벌 사회에 기여하는 글로벌 AI 이니셔티브",
+      "snippet": "글로벌 AI이니셔티브 · 3건 권고 · 글로벌 AI 환경은 빠르게 변화하고 있으며 국가 간 협력과 규범 경쟁이 동시에 심화되고 있다. UN, OECD, G7/G20, APEC, AI ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/98/",
+      "title": "[98] 전략적 글로벌 AI 협력체계 구축",
+      "snippet": "글로벌 AI이니셔티브 · 5건 권고 · ",
+      "type": "actionplan_task",
+      "korea": true,
+      "chapter": null
+    },
+    {
+      "url": "actionplan/task/99/",
+      "title": "[99] 선도형 글로벌 AI 안전 거버넌스 구축",
+      "snippet": "글로벌 AI이니셔티브 · 2건 권고 · ",
+      "type": "actionplan_task",
+      "korea": true,
       "chapter": null
     }
   ]
