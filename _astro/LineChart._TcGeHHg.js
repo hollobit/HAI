@@ -1,1 +1,0 @@
-import{r as a}from"./index.CNSOJBbx.js";import{a6 as t}from"./CategoricalChart.Bx28pYfa.js";import{C as o}from"./CartesianChart.Bl1RfEPx.js";var i=["axis"],m=a.forwardRef((r,e)=>a.createElement(o,{chartName:"LineChart",defaultTooltipEventType:"axis",validateTooltipEventTypes:i,tooltipPayloadSearcher:t,categoricalChartProps:r,ref:e}));export{m as L};
